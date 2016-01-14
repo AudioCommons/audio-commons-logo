@@ -12,4 +12,4 @@ Use liberally of white space on print, and use the colours as accents rather tha
 The use of gradients is discouraged.
 Keep it fresh.
 
-![](https://github.com/MonkeyDo/audio-commons-logo/blob/master/guidelines/jpeg/audio-commons_guidelines-colour-palette.jpg)
+![](https://github.com/AudioCommons/audio-commons-logo/blob/master/guidelines/jpeg/audio-commons_guidelines-colour-palette.jpg)
