@@ -3,6 +3,7 @@
 
 2. Insert the following code in the <head> section of your pages:
 
+```html
 <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
@@ -24,5 +25,6 @@
 <meta name="msapplication-TileColor" content="#1e5055">
 <meta name="msapplication-TileImage" content="/mstile-144x144.png">
 <meta name="theme-color" content="#ffffff">
+```
 
 3. Check if everything looks all right at http://realfavicongenerator.net/favicon_checker
