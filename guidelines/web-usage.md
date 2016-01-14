@@ -15,4 +15,4 @@ The left and right padding are 1.4em.
 The logo is also available as an icon: we use only the waveform in the logo in a square image.
 They are available in 128*128px, 64*64px, 32*32px and 16*16px in the export files.
 
-![](https://github.com/MonkeyDo/audio-commons-logo/blob/master/guidelines/jpeg/audio-commons_guidelines-web-usage.jpg)
+![](https://github.com/AudioCommons/audio-commons-logo/blob/master/guidelines/jpeg/audio-commons_guidelines-web-usage.jpg)
