@@ -13,4 +13,4 @@ Do not deform the logo, nor transform it.
 If you really need to have it changed, please raise an issue on this github repo with a description of the intended use.
 There is an icon only version that is meant to be used on the web (favicons, avatars, etc.). Try not to use it in any other context.
 
-![](https://github.com/MonkeyDo/audio-commons-logo/blob/master/guidelines/jpeg/audio-commons_guidelines-do-dont.jpg)
+![](https://github.com/AudioCommons/audio-commons-logo/blob/master/guidelines/jpeg/audio-commons_guidelines-do-dont.jpg)
