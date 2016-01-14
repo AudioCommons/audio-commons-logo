@@ -8,4 +8,4 @@ These open source fonts can be found, for download or css import (along with ins
 
 Only the Regular and Bold styles are needed for each font for web usage.
 
-![](https://github.com/MonkeyDo/audio-commons-logo/blob/master/guidelines/jpeg/audio-commons_guidelines-typefaces.jpg)
+![](https://github.com/AudioCommons/audio-commons-logo/blob/master/guidelines/jpeg/audio-commons_guidelines-typefaces.jpg)
