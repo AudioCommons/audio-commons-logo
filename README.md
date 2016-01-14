@@ -21,3 +21,10 @@ In addition there are simplified black and white versions for each, for use on l
 * [Web usage](https://github.com/MonkeyDo/audio-commons-logo/blob/master/guidelines/web-usage.md)
 * [Do's and Don'ts](https://github.com/MonkeyDo/audio-commons-logo/blob/master/guidelines/do-donts.md)
 * [Typefaces](https://github.com/MonkeyDo/audio-commons-logo/blob/master/guidelines/typefaces.md)
+
+ 
+ 
+ 
+<hr>
+Logo and identity design lovingly created by [{Monkey.Do}](http://monkeydo.digital)
+<img src="http://monkeydo.digital/img/MonkeyDo_logo_4.jpg" height="123">
