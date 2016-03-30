@@ -22,6 +22,10 @@ In addition there are simplified black and white versions for each, for use on l
 * [Do's and Don'ts](https://github.com/AudioCommons/audio-commons-logo/blob/master/guidelines/do-donts.md)
 * [Typefaces](https://github.com/AudioCommons/audio-commons-logo/blob/master/guidelines/typefaces.md)
 
+### License
+
+Audio Commons logos are published under [CC0 license](http://creativecommons.org/publicdomain/zero/1.0/).
+
 <br><br><br><br><br>
 <hr>
 Logo and identity design lovingly created by [{Monkey.Do}](http://monkeydo.digital)
