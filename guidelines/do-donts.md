@@ -10,7 +10,7 @@ As a rule of thumb, the logo must stand out clearly from the background.
 * If you are hesitating between the black and white versions, try both and squint your eyes to find out which is more legible.
 
 Do not deform the logo, nor transform it.
-If you really need to have it changed, please raise an issue on this github repo with a description of the intended use.
+If you really need to have it changed, please raise an issue on this github repository with a description of the intended use.
 There is an icon only version that is meant to be used on the web (favicons, avatars, etc.). Try not to use it in any other context.
 
 ![](https://github.com/AudioCommons/audio-commons-logo/blob/master/guidelines/jpeg/audio-commons_guidelines-do-dont.jpg)
