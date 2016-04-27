@@ -1,6 +1,6 @@
 #Construction & breathing space
 
-The logo is used with a breathing space defined by using an o's width (see image below).
+The logo is used with a breathing space defined by the width of a letter 'o' (see image below).
 All exported files in this repository already honor the correct breathing space.
 
 A sharp (no blur) 30% black shadow is used on the colour logos.
