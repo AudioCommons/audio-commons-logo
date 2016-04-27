@@ -1,7 +1,7 @@
 #Colour palette
 
 Audio Commons uses two main colours and a supplementary accent colour, as well as two grayscale tones:
-Use liberally of white space on print, and use the colours as accents rather than backgrounds on the web.
+Use whitespace liberally on print, and use the colours as accents rather than backgrounds on the web.
 
 * Green: #0F783C (R15 G120 B60)
 * Blue: #1E5055 (R30 G80 B85)
